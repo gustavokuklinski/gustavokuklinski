@@ -1,5 +1,5 @@
-Meu nome é Gustavo Kuklinski e sou pesquisador de Arte e Tecnologia.
-Trabalho principalmente com Front-End "Clássico" mas também abraçando as modernidades: do LAMP Stack ao Atomic Deployment. 
+Meu nome é Gustavo Kuklinski e sou pesquisador de Arte e Tecnologia.<br />
+Trabalho principalmente com Front-End "Clássico" mas também abraçando as modernidades: do LAMP Stack ao Atomic Deployment. <br />
 Movido do café coado com aroma de morte ao café Kopi Luwak. ☕
 
 ### 📫
@@ -14,9 +14,7 @@ Movido do café coado com aroma de morte ao café Kopi Luwak. ☕
 <code><img width="40px" src="https://www.svgrepo.com/show/452129/vs-code.svg" title = "VSCode"/></code>
 
 ###
-<p align="center">
 <a href="https://github.com/marllonpanisset">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gustavokuklinski&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gustavokuklinski&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
