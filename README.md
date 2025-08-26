@@ -1,20 +1,27 @@
+<div align="center">
 Meu nome é Gustavo Kuklinski e sou pesquisador de Arte e Tecnologia.<br />
-Trabalho principalmente com Front-End "Clássico" mas também abraçando as modernidades: do LAMP Stack ao Atomic Deployment. <br />
-Movido do café coado com aroma de morte ao café Kopi Luwak. ☕
+Movido do café coado com aroma de morte ao café Kopi Luwak. ☕ 
+  <br /><br />
+Atualmente: Estudando Python e IA 
+  <br />
+<hr />
 
-### 📫
-[Instagram](https://www.instagram.com/gustavo.martes/), [X](https://x.com/gustavo__martes), [Linkedin](https://www.linkedin.com/in/gustavo-kuklinski/)
+<table>
+  <tr>
+    <th>📬 Email</th>
+    <th>X</th>
+    <th>Linkedin</th>
+  </tr>
+  <tr>
+    <td>ghc.kuklinski@gmail.com</td>
+    <td><a href="https://x.com/gustavo__martes">@gustavo__martes</a></td> 
+    <td><a href="https://www.linkedin.com/in/gustavo-kuklinski">in/gustavo-kuklinski</a></td>
+  </tr>
+</table>
+<hr />
 
-### 🖥️
-<code><img width="40px" src="https://www.svgrepo.com/show/452054/linux.svg" title = "Linux"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://www.svgrepo.com/show/452210/git.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://www.svgrepo.com/show/452129/vs-code.svg" title = "VSCode"/></code>
-
-###
 <a href="#">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gustavokuklinski&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gustavokuklinski&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</div>
